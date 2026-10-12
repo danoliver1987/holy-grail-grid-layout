@@ -44,6 +44,13 @@ html {
   background-color: #642cde;
   grid-column-start: 2;
   grid-column-end: 3;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+}
+
+.navLink {
+  font-size: 2.2vh;
 }
 
 .article {
