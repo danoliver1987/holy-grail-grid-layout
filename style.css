@@ -39,7 +39,7 @@ html {
   grid-row-end: 4;
   display: grid;
   grid-template-rows: 1fr 1fr 1fr 1fr;
-  gap: 30px;
+  gap: 50px;
 }
 
 .nav {
