@@ -22,6 +22,9 @@ html {
 
 .header {
   background-color: #006157;
+  color: white;
+  font-size: 5vh;
+  font-weight: 700;
   grid-column-start: 1;
   grid-column-end: 3;
   display: grid;
@@ -41,6 +44,7 @@ html {
 
 .nav {
   background-color: #642cde;
+  color: white;
   grid-column-start: 2;
   grid-column-end: 3;
   display: grid;
@@ -62,6 +66,7 @@ html {
 
 .footer {
   background-color: #393f4d;
+  color: white;
   grid-column-start: 1;
   grid-column-end: 3;
 }
@@ -82,24 +87,28 @@ html {
   font-size: 1.75vh;
   grid-column-start: 2;
   grid-column-end: 3;
+  font-size: 2vh;
 }
 
 .linkTwo {
   font-size: 1.75vh;
   grid-column-start: 3;
   grid-column-end: 4;
+  font-size: 2vh;
 }
 
 .linkThree {
   font-size: 1.75vh;
   grid-column-start: 4;
   grid-column-end: 5;
+  font-size: 2vh;
 }
 
 .linkFour {
   font-size: 1.75vh;
   grid-column-start: 5;
   grid-column-end: 6;
+  font-size: 2vh;
 }
 
 .img-placeholder {
