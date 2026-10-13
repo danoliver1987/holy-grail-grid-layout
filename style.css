@@ -127,4 +127,9 @@ html {
 
 .article-box {
   background-color: white;
+  height: 200px;
+}
+
+.article-title {
+  font-size: 3vh;
 }
